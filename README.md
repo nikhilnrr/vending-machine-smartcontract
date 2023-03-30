@@ -42,3 +42,7 @@ Finally, the code is done. Now we, proceed to compile it. The Remix automaticall
 Make sure that we are in Deploy and Run Transactions tab. Then the environment to be selected is Javascript VM. The contract should be our Vending Machine contract.
 
 Deploy it now, and you will get the deployed contract as follows. Also, now whenever the customer has purchased the donuts, the donutBalances gets updated when the function is called.
+
+
+Thank you Navya for helping out. Find the article here. 
+"https://betterprogramming.pub/building-smart-contract-for-a-vending-machine-b1e901f61757"
